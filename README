@@ -1,13 +1,16 @@
-## Requirements
+Intro
+-----
 
- This is based on docker image by https://github.com/mikesplain/openvas-docker
+This is based on docker image by https://github.com/mikesplain/openvas-docker
 
-## Requirements
+Requirements
+------------
 
 Vagrant - https://www.vagrantup.com/
 VirtualBox - https://www.virtualbox.org/wiki/Downloads
 
-## How To Run
+How To Run
+----------
 
 1) Run vagrant up
 2) Open https://localhost:4444. You need to add exception on your browser because certificate error will be shown.
