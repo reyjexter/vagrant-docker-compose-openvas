@@ -1,0 +1,12 @@
+version: '2'
+services:
+
+  openvas:
+    image: mikesplain/openvas:9
+    restart: always
+    ports:
+      - 443:443
+      - 9390:9390
+      - 4000:4000
+    volumes:
+      - ./runtime/mgr:/var/lib/openvas/mgr/

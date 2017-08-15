@@ -1,0 +1,14 @@
+## Requirements
+
+ - This is based on docker image by https://github.com/mikesplain/openvas-docker
+
+## Requirements
+
+ - Vagrant (https://www.vagrantup.com/)
+ - VirtualBox (https://www.virtualbox.org/wiki/Downloads)
+
+## How To Run
+
+ - Run vagrant up
+ - Open https://localhost:4444. You need to add exception on your browser because certificate error will be shown.
+ - Login with admin/admin account.
