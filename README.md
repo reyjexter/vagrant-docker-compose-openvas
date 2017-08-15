@@ -6,7 +6,7 @@ This is based on docker image by https://github.com/mikesplain/openvas-docker
 Requirements
 ------------
 
-Vagrant - https://www.vagrantup.com/
+Vagrant - https://www.vagrantup.com/ __
 VirtualBox - https://www.virtualbox.org/wiki/Downloads
 
 How To Run
